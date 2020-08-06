@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <div align=center>
-	
-  <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihwanahn"/></a>
-	
-  </div>
-  
+<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihwanahn"/></a>
+</div>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jihwanahn)](https://github.com/jihwanahn/github-readme-stats)
+
 <!--
 **jihwanahn/jihwanahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
