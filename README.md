@@ -2,7 +2,6 @@
 
 👋 Hi! Welcome to my Github profile!
 
-Software Engineer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihwanahn)](https://github.com/jihwanahn)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jihwanahn629/)](https://www.facebook.com/jihwanahn629/)
