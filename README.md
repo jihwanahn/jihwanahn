@@ -14,10 +14,11 @@
 [![jihwanahn's github stats](https://github-readme-stats.vercel.app/api?username=jihwanahn&show_icons=true&hide_border=true)](https://github.com/jihwanahn/)
 
 ### 🌱 I’m currently learning
-- Modern C++, C#, Python, JavaScript
+- Modern C++, C#, Python
 - Computer Graphics
 - Unreal Engine 4
 - Unity 3D
+- 
 
 
 
