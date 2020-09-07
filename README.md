@@ -15,7 +15,7 @@
 
 ### 🌱 I’m currently learning
 - Modern C++, C#, Python
-- Computer Graphics
+- Computer Graphics, Game Programming, Virtual Reality
 - Unreal Engine 4
 - Unity 3D
 - SFML
