@@ -15,10 +15,10 @@
 
 ### 🌱 I’m currently learning
 - Modern C++, C#, Python
-- Computer Graphics, Game Programming, Virtual Reality
+- Game Programming, Machine Learning
 - Unreal Engine 4
 - Unity 3D
-- SFML
+- PyTorch
 
 
 
