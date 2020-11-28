@@ -15,9 +15,8 @@
 
 ### 🌱 I’m currently learning
 - Modern C++, C#, Python
-- Game Programming, Machine Learning
-- Unreal Engine 4
-- Unity 3D
+- Game Programming, Computer Graphics, AI
+- Unreal Engine 4, Unity 3D
 - PyTorch
 
 
