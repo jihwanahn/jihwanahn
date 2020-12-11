@@ -8,10 +8,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/koelschkoelsch/)](https://twitter.com/koelschkoelsch/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coldstew/)](https://www.linkedin.com/in/coldstew/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coldstew@gmail.com)](mailto:coldstew@gmail.com)
-
 [![Github Followers](https://img.shields.io/github/followers/jihwanahn?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/jihwanahn?tab=followers)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jihwanahn&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![jihwanahn's github stats](https://github-readme-stats.vercel.app/api?username=jihwanahn&show_icons=true&hide_border=true)](https://github.com/jihwanahn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihwanahn&hide_border=true&layout=compact)](https://github.com/jihwanahn)
 
