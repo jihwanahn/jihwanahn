@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihwanahn)](https://github.com/jihwanahn)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jihwanahn629/)](https://www.facebook.com/jihwanahn629/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/koelschkoelsch/)](https://twitter.com/koelschkoelsch/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coldstew/)](https://www.linkedin.com/in/coldstew/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihwanahn/)](https://www.linkedin.com/in/jihwanahn/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coldstew@gmail.com)](mailto:coldstew@gmail.com)
 [![Github Followers](https://img.shields.io/github/followers/jihwanahn?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/jihwanahn?tab=followers)
 
@@ -15,10 +15,10 @@
 [![jihwanahn's github stats](https://github-readme-stats.vercel.app/api?username=jihwanahn&show_icons=true&hide_border=true)](https://github.com/jihwanahn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihwanahn&hide_border=true&layout=compact)](https://github.com/jihwanahn)
 
-### 🌱 I’m currently learning
+### 🌱 I’m currently learning or working
 - Modern C++, C#, Python
-- Game Programming, Computer Graphics, AI
-- Unreal Engine 4, Unity 3D
+- Game Programming, Computer Graphics, AI, Network Programming
+- Unreal Engine 4, Unreal Engine 5, Unity 3D
 - PyTorch
 
 
