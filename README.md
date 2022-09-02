@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coldstew@gmail.com)](mailto:coldstew@gmail.com)
 [![Github Followers](https://img.shields.io/github/followers/jihwanahn?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/jihwanahn?tab=followers)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jihwanahn&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jihwanahn&theme=chalk&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![jihwanahn's github stats](https://github-readme-stats.vercel.app/api?username=jihwanahn&show_icons=true&hide_border=true)](https://github.com/jihwanahn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihwanahn&hide_border=true&layout=compact)](https://github.com/jihwanahn)
