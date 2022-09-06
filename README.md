@@ -15,6 +15,7 @@
 ### 🌱 I’m currently learning or working
 - C, Modern C++, C#, Python
 - Computer Graphics, Realtime Rendering, Machine Learning, Network Programming
+- DX 11/12, Vulkan
 - Unreal Engine 4, Unreal Engine 5
 
 
