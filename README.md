@@ -1,4 +1,4 @@
-## ***“It has never been my object to record my dreams, just the determination to realize them.” -- Man Ray***
+## ***“It has never been my object to record my dreams, just the determination to realize them.”***
 
 ### Jihwan Peter Ahn -- @jihwanahn
 
@@ -18,11 +18,11 @@
 
 [![opgc](https://api.opgc.me/githubs/users/jihwanahn/tag/?theme=dracula)](https://opgc.me/#/users/jihwanahn)
 
-![Jihwan's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jihwanahn)
+![Jihwan's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=coldstew)
 
 
 ### 🌱 I’m currently learning
-- C, Modern C++, C#, Python
+- C, Modern C++, Python, Rust
 - Computer Graphics, Realtime Rendering, Machine Learning, Network Programming
 - DX 11/12, Vulkan
-- Unreal Engine 4, Unreal Engine 5
+- Unreal Engine 4, Unreal Engine 5, Godot
