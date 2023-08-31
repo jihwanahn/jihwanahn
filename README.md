@@ -5,7 +5,7 @@
 ### 👋 Hi! I'm Jihwan Ahn. Welcome to my GitHub profile! 
 
 ### 🌱 I’m currently interested in
-- C, Modern C++, Python, Rust
+- C, Modern C++, Python
 - Computer Graphics, Computer Animation, Deep Learning
 - DirectX 11/12, Vulkan
 
