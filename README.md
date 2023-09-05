@@ -18,12 +18,8 @@
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=c01d5t3w&theme=calm)](https://github.com/c01d5t3w)
 
+[![c01d5t3w's github stats](https://github-readme-stats.vercel.app/api?username=c01d5t3w&show_icons=true&hide_border=true&theme=dracula)](https://github.com/c01d5t3w)
 
 <a href="https://opgc.me/#/users/c01d5t3w" target="_blank"><img src="https://api.opgc.me/githubs/users/c01d5t3w/tag/?theme=basic" /></a>
 
-[![jihwanahn's github stats](https://github-readme-stats.vercel.app/api?username=coldstew&show_icons=true&hide_border=true&theme=gruvbox)](https://github.com/c01d5t3w)
-
-
-
-![Jihwan's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=c01d5t3w)
 
