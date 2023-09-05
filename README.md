@@ -22,4 +22,6 @@
 
 <a href="https://opgc.me/#/users/c01d5t3w" target="_blank"><img src="https://api.opgc.me/githubs/users/c01d5t3w/tag/?theme=basic" /></a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=coldstew)](https://solved.ac/coldstew)
+
 
