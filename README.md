@@ -21,9 +21,9 @@
 
 <a href="https://opgc.me/#/users/c01d5t3w" target="_blank"><img src="https://api.opgc.me/githubs/users/c01d5t3w/tag/?theme=basic" /></a>
 
-[![jihwanahn's github stats](https://github-readme-stats.vercel.app/api?username=coldstew&show_icons=true&hide_border=true&theme=gruvbox)](https://github.com/coldstew)
+[![jihwanahn's github stats](https://github-readme-stats.vercel.app/api?username=coldstew&show_icons=true&hide_border=true&theme=gruvbox)](https://github.com/c01d5t3w)
 
 
 
-![Jihwan's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=coldstew)
+![Jihwan's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=c01d5t3w)
 
