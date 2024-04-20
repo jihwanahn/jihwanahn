@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihwanahn/)](https://www.linkedin.com/in/jihwanahn/)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coldstew@gmail.com)](mailto:coldstew@gmail.com)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=c01d5t3w&theme=chalk&row=2&column=5)](https://github.com/jihwanahn)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jihwanahn&theme=chalk&row=2&column=5)](https://github.com/jihwanahn)
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=jihwanahn&theme=calm)](https://github.com/jihwanahn)
 
