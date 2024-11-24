@@ -5,9 +5,9 @@
 ### 👋 Hi! I'm Jihwan Ahn. Welcome to my GitHub profile! 
 
 ### 🌱 I’m currently interested in
-- JavaScript, Node.js, C, Modern C++, Python
-- Web development, Computer Graphics, Computer Animation, Deep Learning
-- DirectX 11/12, Vulkan
+- C++, Python, iOS, MacOS
+- Computer Graphics, Computer Animation, Reinforcement Learning, App Development
+- DirectX, Vulkan, Metal
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihwanahn)](https://github.com/jihwanahn)
